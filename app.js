@@ -1,4 +1,2 @@
-﻿
-<script>
-	$alert"hello world";
-</script>
+﻿alert("hello world");
+
